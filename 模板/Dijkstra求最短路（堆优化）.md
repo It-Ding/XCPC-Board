@@ -2,7 +2,7 @@
 
 #### 最后更新于	2021/11/11
 
-#### 题目来源：[850. Dijkstra求最短路 II - AcWing题库](https://www.acwing.com/problem/content/submission/code_detail/6314589/)
+#### 题目来源：[850. Dijkstra求最短路 II](https://www.acwing.com/problem/content/submission/code_detail/6314589/)
 
 ## 前置变量
 
