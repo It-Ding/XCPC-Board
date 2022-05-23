@@ -1,2 +1,2 @@
-# XCPX-Board
-Recorded the board I used in the XCPC competition
+# XCPX板子
+此仓库记录了本人在XCPC比赛中使用的板子
